@@ -1,0 +1,42 @@
+h6{
+    text-align: end;
+    text-transform: lowercase;
+    text-decoration: overline;
+    font-size:small;
+    font-weight: 900;
+    font-style:italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow: 10px;
+    background-color: aqua;
+    color: rgb(163, 113, 40);
+    text;
+}
+#iq{
+    font-weight: 100;
+}
+.cl{
+    font-weight: bolder;
+    width: 20%;
+}
+.name{
+    color: aqua;
+    border: 1px solid ,rgb(27, 21, 21);
+    border-radius: 5px;
+    border-left: 3px dashed green;
+    margin: 10px;
+    padding: 2px;
+    border-top: 2px solid aqua;
+
+}
+
+p{
+    border: 1px solid black;
+    width: 100px;
+
+    text-align: center;
+    padding-top:40px;
+    height: 60px;
+    /* padding-bottom: 25px; */
+    border-radius: 50%;
+    border-radius: 20px 10px 5px 2px;
+}
